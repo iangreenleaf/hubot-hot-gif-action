@@ -1,5 +1,5 @@
 {
-  "name": "hubot-hubot-hot-gif-action",
+  "name": "hubot-hot-gif-action",
   "description": "Hot. GIF. Action.",
   "version": "0.0.0",
   "author": "Ian Young <ian@iangreenleaf.com>",
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-hubot-hot-gif-action.git"
+    "url": "git://github.com/hubot-scripts/hubot-hot-gif-action.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-hubot-hot-gif-action/issues"
+    "url": "https://github.com/hubot-scripts/hubot-hot-gif-action/issues"
   },
 
   "dependencies": {
