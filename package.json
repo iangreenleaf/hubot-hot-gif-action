@@ -17,6 +17,7 @@
   },
 
   "dependencies": {
+    "tumblrbot": "^0.1.0"
   },
 
   "peerDependencies": {
