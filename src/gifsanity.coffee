@@ -18,7 +18,6 @@ tumblr = require "tumblrbot"
 SOURCES = {
   "foodmosh.tumblr.com": /(food)( mosh)?( me)?/i
   "fluxmachine.tumblr.com": /(flux)( ?machine)?( me)?/i
-  "gifolas-cage.tumblr.com": /(nic )?cage( me)?/i
   "milosrajkovic.tumblr.com": /(android )( me)?/i
 }
 
