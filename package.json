@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-hot-gif-action.git"
+    "url": "git://github.com/iangreenleaf/hubot-hot-gif-action.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-hot-gif-action/issues"
+    "url": "https://github.com/iangreenleaf/hubot-hot-gif-action/issues"
   },
 
   "dependencies": {
