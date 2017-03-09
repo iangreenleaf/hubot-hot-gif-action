@@ -1,9 +1,6 @@
 # Description:
 #   Pulls GIFs from various insane tumblrs
 #
-# Dependencies:
-#   "tumblrbot": "0.1.0"
-#
 # Configuration:
 #   HUBOT_TUMBLR_API_KEY - A Tumblr OAuth Consumer Key will work fine
 #
@@ -15,7 +12,7 @@
 #   hubot nic cage me - Returns a random gif from gifolas-cage.tumblr.com
 #
 # Author:
-#   iangreenleaf
+#   Ian Young <ian@iangreenleaf.com>
 
 tumblr = require "tumblrbot"
 SOURCES = {

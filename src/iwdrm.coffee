@@ -1,9 +1,6 @@
 # Description:
 #   Pulls a movie gif from the best tumblog
 #
-# Dependencies:
-#   None
-#
 # Configuration:
 #   HUBOT_TUMBLR_API_KEY - A Tumblr OAuth Consumer Key will work fine
 #
@@ -11,7 +8,7 @@
 #   hubot movie me - Displays a moving still from IWDRM
 #
 # Author:
-#   iangreenleaf
+#   Ian Young <ian@iangreenleaf.com>
 
 module.exports = (robot) ->
   robot.respond /(movie|iwdrm)( me)?( .*)/i, (msg) ->
